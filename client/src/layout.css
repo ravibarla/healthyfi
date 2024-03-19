@@ -1,0 +1,34 @@
+.main {
+  padding: 20px;
+}
+
+.sidebar {
+  background-color: #000555;
+  border-radius: 5px;
+  box-shadow: 0 0 2px grey;
+  margin-right: 20px;
+  padding: 10px;
+  min-height: 100vh;
+  width: 250px;
+}
+
+.content {
+  width: 100%;
+  height: 100%;
+}
+
+.header {
+  background-color: #000555;
+  border-radius: 5px;
+  box-shadow: 0 0 2px grey;
+  margin-bottom: 20px;
+  height: 10vh;
+}
+
+.body {
+  background-color: white;
+  border-radius: 5 px;
+  box-shadow: 0 0 2px gray;
+  height: 82vh;
+  width: 100%;
+}
