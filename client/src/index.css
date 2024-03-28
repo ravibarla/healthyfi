@@ -60,6 +60,11 @@ label {
   text-decoration: underline !important;
 }
 
+/* .remix-icon{
+  font-size: 18px;
+
+} */
+
 input:focus {
   outline: none !important;
   box-shadow: none !important;
@@ -99,4 +104,11 @@ input:focus {
   padding: 7px 15px;
   margin-left: -40px;
   border-bottom-left-radius: 10px;
+}
+
+.close-icon {
+  font-size: 30px;
+  color: black  !important;
+  cursor: pointer;
+  padding: 10px;
 }

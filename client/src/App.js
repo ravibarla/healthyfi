@@ -8,6 +8,7 @@ import { Toaster } from "react-hot-toast";
 import { useSelector } from "react-redux";
 import ProtectedRoute from "./components/protectedRoute";
 import PublicRoute from "./components/publicRoute";
+import 'remixicon/fonts/remixicon.css'
 function App() {
   const { loading } = useSelector((state) => state.alerts);
   return (

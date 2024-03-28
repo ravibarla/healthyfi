@@ -22,9 +22,9 @@ function Home() {
     getData();
   }, []);
   return (
-    <div>
-      <Layout />
-    </div>
+    <Layout>
+      <h1>homepage</h1>
+    </Layout>
   );
 }
 
